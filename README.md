@@ -35,4 +35,6 @@ La carpeta `Investigador` persiste constancias relacionadas a hitos académicos.
 |*Beca Doctoral UNLP*       |2023   |Otorgamiento de la Beca Doctoral UNLP solicitada en 2022.  |
 |*Beca EVC*                 |2022   |Otorgamiento de la Beca *Estímulo a las Vocaciones Científicas* solicitada en 2021, resuelta simultáneamente a la tesis de grado.  |
 
-**IMPORTANTE**: No esta incluida la informacion de todos los Congresos\Eventos\Cursos en los que se participo. De algunos se perdieron o no recibieron sus respectivos certificados por lo que nunca se agregaron sus entradas en el repositorio.
+___
+
+**IMPORTANTE**: No está incluida la información de todos los Congresos\Eventos\Cursos en los que se participó. Algunos se perdieron o no recibieron sus respectivos certificados por lo que nunca se agregaron sus entradas en el repositorio. 
