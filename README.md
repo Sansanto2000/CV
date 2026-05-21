@@ -4,11 +4,12 @@ En la carpeta `Congresos-y-Eventos` se guardan los certificados de Congresos/Eve
 
 |Congreso/Evento    |Año    |Asistente  |Autor  |Conferencista  |
 |:------------------|:-----:|:---------:|:-----:|:-------------:|
-|KHIPU              |2025   |🟢        |       |               |
-|WICC               |2024   |           |🟢    |                |
-|III_CIMA           |2024   |🟢        |       |🟢             |
-|Enigma             |2024   |🟢        |       |🟢             |
-|AUGM_JJI           |2024   |🟢        |🟢    |🟢             |
+|KHIPU              |2025   |🟢         |       |               |
+|WICC               |2024   |           |🟢     |               |
+|III_CIMA           |2024   |🟢         |       |🟢             |
+|Enigma             |2024   |🟢         |       |🟢             |
+|AUGM_JJI           |2024   |🟢         |🟢     |🟢             |
+|CACIC              |2024   |🟢         |🟢     |               |
 
 ## Cursos
 
