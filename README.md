@@ -19,6 +19,7 @@ En la carpeta `Cursos` se guarda información de cursos realizados ya sea en con
 
 |Institución/Contexto   |Año    |Curso              |Aprobado   |
 |:----------------------|:-----:|:-----------------:|:---------:|
+|CLEI                   |2025   |*Redes Neuronales* |🟢         |
 |CACIC                  |2025   |*Sistemas de Ciberdefensa con IA*|🟢        |
 |CACIC                  |2024   |*Gemelos digitales y su aplicación en la industria y en la gestión sanitaria*|🟢        |
 |UNLP_FI                |2024   |*ANÁLISIS INTELIGENTE DE DATOS EN ENTORNOS BIG DATA*|🟢        |
