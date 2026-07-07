@@ -4,7 +4,8 @@ En la carpeta `Congresos-y-Eventos` se guardan los certificados de Congresos/Eve
 
 |Congreso/Evento    |Año    |Asistente  |Autor  |Conferencista  |
 |:------------------|:-----:|:---------:|:-----:|:-------------:|
-|WICC               |2026   |           |🟢2️⃣  |               |
+|JCC                |2026   |🟢         |🟢      |🟢             |
+|WICC               |2026   |           |🟢2️⃣    |               |
 |CLEI               |2025   |🟢         |🟢     |🟢             |
 |WICC               |2025   |           |🟢     |               |
 |KHIPU              |2025   |🟢         |       |               |
