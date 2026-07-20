@@ -4,6 +4,7 @@ En la carpeta `Congresos-y-Eventos` se guardan los certificados de Congresos/Eve
 
 |Congreso/Evento    |Año    |Asistente  |Autor  |Conferencista  |
 |:------------------|:-----:|:---------:|:-----:|:-------------:|
+|ExperienciasUNLP   |2026   |🟢         |       |🟢             |
 |JCC                |2026   |🟢         |🟢      |🟢             |
 |WICC               |2026   |           |🟢2️⃣    |               |
 |CLEI               |2025   |🟢         |🟢     |🟢             |
