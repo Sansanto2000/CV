@@ -35,7 +35,8 @@ La carpeta `Investigador` persiste constancias relacionadas a hitos académicos.
 
 |Hito                       |Año    |Descripción    |
 |:--------------------------|:-----:|:--------------|
-|*Egreso de Maestría en Inteligencia de Datos Orientada en Big Data*    |2026   |Inicio en 2024. En documentos se puede encontrar el certificado analitico.  |
+|*Maestría en IDOBD - Certificado SEDICI*    |2026   |Certificado de Depósito en SEDICI de la tesis de Maestria.  |
+|*Maestría en IDOBDa - Analitico*    |2026   |Certificado analitico de la maestria en Inteligencia de Datos Orientada en Big Data iniciada en 2024.  |
 |*Beca Doctoral UNLP*       |2023   |Otorgamiento de la Beca Doctoral UNLP solicitada en 2022.  |
 |*Beca EVC*                 |2022   |Otorgamiento de la Beca *Estímulo a las Vocaciones Científicas* solicitada en 2021, resuelta simultáneamente a la tesis de grado.  |
 
